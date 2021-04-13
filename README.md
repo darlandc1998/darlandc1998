@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<div style="font-weight: normal; padding: 10px 100px;">Welcome to my profile. I'm a full-stack developer and have been working with software development for over five years.</div>
+<div style="font-weight: normal; padding: 10px 100px;">Welcome to my profile. I'm a full-stack developer and have been working with software development since 2015.</div>
 
 <h5>Languages and Tools</h5>
 
@@ -18,7 +18,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" title="PostgreSQL"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal"></code>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darlandc1998&show_icons=true)
 
@@ -32,4 +31,3 @@ Outside of [GitHub](https://github.com/darlandc1998), You can find me. I am curr
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/darlan)
 
 </div>
-
