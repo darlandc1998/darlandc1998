@@ -6,7 +6,7 @@
 
 <div style="font-weight: normal; padding: 10px 100px;">Welcome to my profile. I'm a full-stack developer and have been working with software development since 2015.</div>
 
-<h5>Languages and Tools</h5>
+<h4>Languages and Tools</h4>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
@@ -22,7 +22,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darlandc1998&show_icons=true)
 
 
-Outside of [GitHub](https://github.com/darlandc1998), You can find me. I am currently active on the following social networks
+Outside of [GitHub](https://github.com/darlandc1998), You can find me. I'm currently active on the following social networks
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CandiottoDarlan) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlan-domingos-candiotto-6b2241133/)
