@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<div style="font-weight: normal; padding: 10px 100px;">Welcome to my profile. I'm a full-stack developer and have been working with software development since 2015.</div>
+<div style="font-weight: normal; padding: 10px 100px;">Welcome to my profile. I'm a full-stack developer and have been working with software development since 2016.</div>
 
 <h4>Languages and Tools</h4>
 
